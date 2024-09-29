@@ -1,0 +1,18 @@
+[
+  {
+    "title": "ประวัติศาสตร์ไทย",
+    "author": "George Orwell (Updated)",
+    "genre": "History",
+    "publishedYear": 2018,
+    "available": true,
+    "id": 2
+  },
+  {
+    "title": "วิทยาศาสตร์พื้นฐาน",
+    "author": "อัจฉรา อัจฉริยะ",
+    "genre": "Science",
+    "publishedYear": 2022,
+    "available": true,
+    "id": 3
+  }
+]
